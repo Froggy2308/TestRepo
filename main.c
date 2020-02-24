@@ -8,4 +8,3 @@ int main()
         printf("You entered: %d\n", k);
         return 0;
 }
-integer
